@@ -1,6 +1,6 @@
 [//]: # (Image References)
 
-[image1]: ./images/Tanjiro.jpeg "Training Can Be Fun"
+[image1]: ./Images/Tanjiro.jpeg "Training Can Be Fun"
 
 # Codewars Kata - Python
 
